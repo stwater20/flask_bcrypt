@@ -12,6 +12,8 @@
 </code>
 
 response String -> $2b$12$D593RvtunfXMQG1aPxxvqecu5VJDqvxr.tWDLCHftaPPyMeYv.7wy
+
+![alt text](encrypt.png "Title")
   
 #### decrypt
 
@@ -25,4 +27,7 @@ response String -> $2b$12$D593RvtunfXMQG1aPxxvqecu5VJDqvxr.tWDLCHftaPPyMeYv.7wy
 response
   String -> True or False 
   
-  
+![alt text](decrypt.png "Title")  
+License
+---
+MIT
