@@ -11,7 +11,13 @@ or
 <code>
   pip install -r requirements.txt
 </code>
+<br>
+<code>
+    
+  
 
+    python bcrypt.py
+</code>
 
 #### encrypt - Methods => POST
 
