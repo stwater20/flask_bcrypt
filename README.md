@@ -13,7 +13,9 @@ or
 </code>
 <br>
 <code>
+  
     python bcrypt.py
+    
 </code>
 
 #### encrypt - Methods => POST
