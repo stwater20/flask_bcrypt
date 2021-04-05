@@ -13,9 +13,6 @@ or
 </code>
 <br>
 <code>
-    
-  
-
     python bcrypt.py
 </code>
 
