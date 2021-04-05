@@ -5,18 +5,18 @@
 #### encrypt
 
 <code>
-  http://localhost:encrypt
+  http://{your_ip:port}:encrypt
   
   form-data
     data:{put_your_key}
 </code>
 
-response
+response String -> $2b$12$D593RvtunfXMQG1aPxxvqecu5VJDqvxr.tWDLCHftaPPyMeYv.7wy
   
 #### decrypt
 
 <code>
-  http://localhost:encrypt
+  http://{your_ip:port}:encrypt
   
   form-data
     data:{put_your_key}
