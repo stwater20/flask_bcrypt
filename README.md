@@ -18,7 +18,7 @@ or
 <code>
   http://{your_ip:port}:encrypt
   
-  form-data
+  form-data <br>
     data:{put_your_key}
 </code>
 
@@ -31,7 +31,7 @@ response String -> $2b$12$D593RvtunfXMQG1aPxxvqecu5VJDqvxr.tWDLCHftaPPyMeYv.7wy
 <code>
   http://{your_ip:port}:encrypt
   
-  form-data
+  form-data。<br>
     data:{put_your_key}
 </code>
 
