@@ -16,7 +16,7 @@ or
 #### encrypt - Methods => POST
 
 <code>
-  http://{your_ip:port}:encrypt
+    http://{your_ip:port}:encrypt
   
 
     data:{put_your_key}
@@ -29,7 +29,7 @@ response String -> $2b$12$D593RvtunfXMQG1aPxxvqecu5VJDqvxr.tWDLCHftaPPyMeYv.7wy
 #### decrypt - Methods => POST
 
 <code>
-  http://{your_ip:port}:encrypt
+    http://{your_ip:port}:encrypt
   
 
     data:{put_your_key}
