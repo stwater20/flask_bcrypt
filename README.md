@@ -14,7 +14,7 @@ or
 <br>
 
   
-    python bcrypt.py
+    python crypt.py
     
 
 
